@@ -15,7 +15,7 @@
 
 <br>
 - :school: I am a `Junior` at [Sofware Development](https://degreeportal.byupathway.org) at [Brigham Young University Idaho](https://degreeportal.byupathway.org/).
-- :trophy: Ganando Experiencia
+- :trophy: Ganando Experiencia.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I would like to be competitive programmer.
 - :student: I’m currently learning `Html and css` and `Javascript`.
