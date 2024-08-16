@@ -14,7 +14,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br>
-- :school: I am a `Junior` at [Sofware Development](https://degreeportal.byupathway.org) at [Brigham Young University Idaho](https://degreeportal.byupathway.org/)).
+- :school: I am a `Junior` at [Sofware Development](https://degreeportal.byupathway.org) at [Brigham Young University Idaho](https://degreeportal.byupathway.org/).
 - :trophy: Ganando Experiencia
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I would like to be competitive programmer.
