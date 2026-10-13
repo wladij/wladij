@@ -81,8 +81,8 @@ Focus: Express · Sessions · Middleware · EJS · Security Fundamentals
 
 I’m interested in connecting with other developers, learning from experienced engineers, and discovering opportunities to grow professionally.
 
-* 💼 LinkedIn: Add your LinkedIn profile URL
-* 📧 Email: Add your professional email
+* 💼 LinkedIn: linkedIn.com/joecandelario
+* 📧 Email: joew.candelario@gmail.com
 * 🐙 GitHub: github.com/wladij
 
 ⸻
